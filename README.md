@@ -8,6 +8,7 @@ Kurs C++, poziom szkoła średnia (liceum, technikum)
 
 # Spis treści
 1. [Środowisko C++, Budowa programu](Środowisko_C_+_+_Budowa_Programu.pdf)
+2. [Zmienne i operatory](Zmienne_i_Operatory.pdf)
   
 # Licencja
 <img src="https://feliszewski.pl/licence/cc-by-nc.png" alt="Licence CC-BY-NC">
